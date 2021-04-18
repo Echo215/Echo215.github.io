@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to right,#fbc2eb,#a6c1ee);
+  background-size: 100% auto;
+ }
+
+ #maxbox{
+   margin:0 auto;
+   margin-top: 200px;
+   padding:20px,50px;
+   background-color:#00000030;
+   text-align: center;
+   width:480px;
+   height:367px;
+ }
+
+#maxbox h3{
+  padding:0;
+  padding-top: 40px;
+  color:white;
+  font-size: 27px;
+}
+
+#maxbox .inputbox{
+  margin-top: :50px;
+}
+
+#maxbox .inputtext{
+  margin-top: 33px;
+}
+
+#maxbox .inputtext input{
+  border:0;
+  padding:6px;
+  border-bottom: 1px solid white;
+  background-color: #FFFFFF00;
+  color:white;
+}
+
+#btn{
+  margin:0;
+  margin-top: 25px;
+  width:120px;
+  height:30px;
+  border-radius: 10px;
+  background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+}
+
+#result{
+  text-align: center;
+  color:#444444;
+  font-size: 10px;
+}

@@ -5,7 +5,7 @@ function check(){
     text="恭喜你，答对了";
   }
   else{
-    text="再想想……"
+    text="再想想…我是一个生活在海底的粉色小可爱"
   }
 document.getElementById("result").innerHTML=text;
 document.getElementById("result").style.visibility="visible";
